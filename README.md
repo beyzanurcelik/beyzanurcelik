@@ -46,3 +46,10 @@
 </div>
   
   ##
+  
+  ![Snake animation](https://github.com/beyzanurcelik/beyzanurcelik/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://github.com/beyzanurcelik">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=beyzanurcelik.beyzanurcelik&style=for-the-badge">
+<a>
+  
