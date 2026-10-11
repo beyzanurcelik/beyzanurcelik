@@ -20,7 +20,7 @@ Building intelligent systems and data-driven solutions.
 I'm a software engineer interested in **Artificial Intelligence, Machine Learning, and Data Engineering**.
 
 - 🤖 Exploring machine learning and deep learning applications
-- 📊 Working with data processing, analytics, and ETL pipelines
+- 📊 Working with data processing, analytics
 - 🧠 Interested in intelligent systems and applied AI research
 - 🛠️ Focused on building practical, data-driven solutions
 
